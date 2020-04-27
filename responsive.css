@@ -38,6 +38,16 @@
         height: 15px;
         margin: 10px;
     }
+
+    /* bu Susan */
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .heading h2 {
+        font-size: 20px;
+    }
 }
 
 /* untuk hape */
@@ -83,6 +93,11 @@
     }
 
     .main {
-        height: 700px
+        height: 700px;
+    }
+
+    /* bu Susan */
+    .lesson {
+        width: 100%;
     }
 }
