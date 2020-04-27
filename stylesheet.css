@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    font-family: 'Andika';
+    font-family: 'Andika', sans-serif;
 }
 
 a {
@@ -75,7 +75,7 @@ header {
 .main span {
     font-weight: bold;
     font-size: 60px;
-    font-family: "Comic Sans MS";
+    font-family: 'Noto Sans JP', sans-serif;
     text-shadow: 3px 3px rgb(54, 42, 223);
     letter-spacing: 3px;
 }
@@ -206,7 +206,6 @@ input[name="r"] {
     position: absolute;
     top: 44%;
     width: 100%;
-    ;
 }
 
 .txt-contents {
