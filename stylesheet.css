@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Andika';
 }
 
 a {
@@ -162,4 +162,59 @@ input[name="r"] {
 
 #r5:checked~.s1 {
     margin-left: -80%;
+}
+
+/* punya bu susan */
+.lessons img {
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.clear {
+    clear: left;
+}
+
+.lesson-wrapper {
+    padding-bottom: 80px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.heading {
+    padding-top: 80px;
+    padding-bottom: 50px;
+    color: #5f5d60;
+}
+
+.heading h2 {
+    font-weight: normal;
+}
+
+.lesson {
+    float: left;
+    width: 20%;
+}
+
+.lesson-icon {
+    position: relative;
+}
+
+.lesson-icon p {
+    position: absolute;
+    top: 44%;
+    width: 100%;
+    ;
+}
+
+.text-contents {
+    width: 80%;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.heading h3 {
+    font-weight: normal;
 }
